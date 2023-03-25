@@ -1,0 +1,17 @@
+i{
+    font-size: 2rem;
+    color:azure
+}
+
+a {
+    text-decoration:none     ;
+}
+
+.container {
+    flex-direction: column;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
