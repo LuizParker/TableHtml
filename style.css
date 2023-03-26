@@ -1,20 +1,21 @@
-i{
+i {
     font-size: 2rem;
-    color:azure
+    color: azure
 }
 
 a {
-    text-decoration:none     ;
+    text-decoration: none;
 }
 
 .container {
     flex-direction: column;
-    display:flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     width: 100vw;
     height: 100vh;
 }
-th#header{
+
+th#header {
     text-align: center;
 }
